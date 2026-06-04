@@ -116,28 +116,6 @@ git clone https://github.com/Presidor/Geothermal-Heating-Cooling-System-Assessme
 cd Geothermal-Heating-&-Cooling-System-Assessment
 ```
 
-Create a virtual environment:
-
-```bash
-python -m venv venv
-```
-
-Activate it:
-
-### Windows
-
-```bash
-venv\Scripts\activate
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## How to Reproduce Results
 
 ### Step 1: Prepare Data
