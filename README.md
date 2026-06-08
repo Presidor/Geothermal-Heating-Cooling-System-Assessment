@@ -7,7 +7,6 @@
 1. Chinonso Athanasius
 2. Muhammed Balogun
 3. Abdullahi Aadam
-4. Maxwell
 
 ---
 
